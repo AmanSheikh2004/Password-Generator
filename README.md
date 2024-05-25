@@ -22,7 +22,7 @@ This is a GUI-based password generator application built with Python's Tkinter l
    ```sh
    pip install pyperclip
 
-##Usage
+## Usage
 
 Run the password_generator.py script:
     python password_generator.py
